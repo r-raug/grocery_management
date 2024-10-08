@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FFE9FF</color>
+    <color name="colorSecondary">#664EA3</color>
+    <color name="Fruits">#4CAF50</color>
+    <color name="Dairy">#2196F3</color>
+    <color name="Vegetables">#FF9800</color>
+    <color name="Meat">#F44336</color>
+    <color name="Beverages">#9C27B0</color>
+    <color name="Other">#9E9E9E</color>
+</resources>

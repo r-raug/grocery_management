@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MidTerm_Grocery_Manager</string>
+
+        <string-array name="grocery_categories">
+            <item>Fruits</item>
+            <item>Dairy</item>
+            <item>Vegetables</item>
+            <item>Meat</item>
+            <item>Beverages</item>
+        </string-array>
+
+
+
+</resources>
